@@ -7,3 +7,5 @@ Klassikale html pagina met alle leerlingen
 * L1Z4
 * Thiebe
 
+* PludotGames
+
